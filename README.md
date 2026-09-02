@@ -140,7 +140,7 @@ GloVe Embedding + Positional Encoding
 
 ## 프로젝트 보고서
 
-실험 설계와 모델 구조, 학습 곡선 및 결과 분석에 대한 자세한 내용은 [프로젝트 보고서](./Comparative Analysis of Attention-Based Models for Movie Review Sentiment Classification.pdf)에서 확인할 수 있습니다.
+실험 설계와 모델 구조, 학습 곡선 및 결과 분석에 대한 자세한 내용은 [프로젝트 보고서](Comparative Analysis of Attention-Based Models for Movie Review Sentiment Classification.pdf)에서 확인할 수 있습니다.
 
 ## 참고자료
 
